@@ -1,6 +1,11 @@
 Various Toolchains and Tools for Embedded Development
 =====================================================
 
+iMokhles Comment
+================
+
+	I used it to compiling Chronic-Dev Cyanide :)
+
 ## Getting Started ##
 
 	brew tap darconeous/embedded
